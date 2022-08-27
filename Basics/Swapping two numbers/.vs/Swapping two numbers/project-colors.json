@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b40e0e59-01fa-4830-96e9-f9c43498ddf1": {
+      "ProjectGuid": "b40e0e59-01fa-4830-96e9-f9c43498ddf1",
+      "DisplayName": "Swapping two numbers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

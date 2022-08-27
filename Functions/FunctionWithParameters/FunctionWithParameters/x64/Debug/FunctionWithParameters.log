@@ -1,0 +1,4 @@
+﻿  FunctionWithParameters.cpp
+C:\Users\shank\OneDrive\C++ Tutorials\Looping\FunctionWithParameters\FunctionWithParameters\FunctionWithParameters.cpp(27,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\shank\OneDrive\C++ Tutorials\Looping\FunctionWithParameters\FunctionWithParameters\FunctionWithParameters.cpp(32,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  FunctionWithParameters.vcxproj -> C:\Users\shank\OneDrive\C++ Tutorials\Looping\FunctionWithParameters\x64\Debug\FunctionWithParameters.exe

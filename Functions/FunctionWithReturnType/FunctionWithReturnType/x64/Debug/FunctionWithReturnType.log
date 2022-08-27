@@ -1,0 +1,4 @@
+﻿  FunctionWithReturnType.cpp
+C:\Users\shank\OneDrive\C++ Tutorials\Functions\FunctionWithReturnType\FunctionWithReturnType\FunctionWithReturnType.cpp(23,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\shank\OneDrive\C++ Tutorials\Functions\FunctionWithReturnType\FunctionWithReturnType\FunctionWithReturnType.cpp(20): warning C4715: 'PrimeChecker': not all control paths return a value
+  FunctionWithReturnType.vcxproj -> C:\Users\shank\OneDrive\C++ Tutorials\Functions\FunctionWithReturnType\x64\Debug\FunctionWithReturnType.exe

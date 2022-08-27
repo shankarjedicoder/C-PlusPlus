@@ -1,0 +1,5 @@
+﻿  ATMOperation.cpp
+C:\Users\shank\OneDrive\C++ Tutorials\Functions\ATMOperation\ATMOperation\ATMOperation.cpp(98,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\shank\OneDrive\C++ Tutorials\Functions\ATMOperation\ATMOperation\ATMOperation.cpp(65): warning C4715: 'PasswordCheck': not all control paths return a value
+C:\Users\shank\OneDrive\C++ Tutorials\Functions\ATMOperation\ATMOperation\ATMOperation.cpp(90): warning C4715: 'ContinueTask': not all control paths return a value
+  ATMOperation.vcxproj -> C:\Users\shank\OneDrive\C++ Tutorials\Functions\ATMOperation\x64\Debug\ATMOperation.exe

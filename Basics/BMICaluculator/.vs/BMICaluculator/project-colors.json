@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e26ad12f-c8e7-4230-b975-2c498ae1f4f2": {
+      "ProjectGuid": "e26ad12f-c8e7-4230-b975-2c498ae1f4f2",
+      "DisplayName": "BMICaluculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

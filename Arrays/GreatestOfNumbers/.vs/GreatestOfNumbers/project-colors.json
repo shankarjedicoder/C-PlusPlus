@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d5280f5-7773-4d33-807b-016dcc58beda": {
+      "ProjectGuid": "3d5280f5-7773-4d33-807b-016dcc58beda",
+      "DisplayName": "GreatestOfNumbers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

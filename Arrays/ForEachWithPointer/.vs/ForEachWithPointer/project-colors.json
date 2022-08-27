@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d5cba865-b1db-400a-a4db-a4f094fc956f": {
+      "ProjectGuid": "d5cba865-b1db-400a-a4db-a4f094fc956f",
+      "DisplayName": "ForEachWithPointer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "950fc07a-e1d8-4677-a4c1-aa9e3dbb9218": {
+      "ProjectGuid": "950fc07a-e1d8-4677-a4c1-aa9e3dbb9218",
+      "DisplayName": "DrawingARectangle",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

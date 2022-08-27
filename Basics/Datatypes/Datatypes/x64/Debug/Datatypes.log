@@ -1,0 +1,3 @@
+﻿  Datatypes.cpp
+C:\Users\shank\OneDrive\C++ Tutorials\Datatypes\Datatypes\Datatypes.cpp(12,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Datatypes.vcxproj -> C:\Users\shank\OneDrive\C++ Tutorials\Datatypes\x64\Debug\Datatypes.exe
